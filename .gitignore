@@ -1,8 +1,10 @@
 # Dépendances Node.js
 node_modules/
 
-# Variables d'environnement 
+# Variables d'environnement
 .env
+.env.*
+!.env.example
 
 # Logs
 *.log
